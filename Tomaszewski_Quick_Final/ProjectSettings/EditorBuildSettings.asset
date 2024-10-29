@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Philip/scenes/testLevel1.unity
     guid: a45bb0903af010c4891af0b84742fb8b
+  - enabled: 1
+    path: Assets/Izzy/Level 2.unity
+    guid: 7d8b2799e27104b4dbf404cb16a50079
   m_configObjects: {}
