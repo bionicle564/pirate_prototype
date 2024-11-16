@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - stickTo
+  - breaking
   layers:
   - Default
   - TransparentFX
