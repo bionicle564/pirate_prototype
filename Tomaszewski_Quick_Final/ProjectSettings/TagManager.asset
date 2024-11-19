@@ -7,7 +7,23 @@ TagManager:
   - stickTo
   - breaking
   - activate
+<<<<<<< Updated upstream
   - water
+=======
+<<<<<<< HEAD
+  - Rope
+  - Rope 2
+  - Rope 3
+  - Metal
+  - Metal 2
+  - Metal 3
+  - Metal 4
+  - Metal 5
+  - Metal 6
+=======
+  - water
+>>>>>>> 761f1388bd390afabf7b2d57b35a7ec6bdab0e32
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
